@@ -1,0 +1,42 @@
+# Site settings
+title: city hanok
+tagline: to reecord the appearance of hanok in the city
+description: "I want to record the appearance of hanok in the city as a tourist destination, residential space, and commercial facility by following the various landscapes and traces surrounding it."
+url: "https://cityhanok.com"
+author:
+  name: "mang"
+  email: "mang2111@gmail.com"
+  url: "https://cityhanok.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+permalink: /:title
+paginate: 8
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: cityhanok
