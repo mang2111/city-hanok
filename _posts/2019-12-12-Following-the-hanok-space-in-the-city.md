@@ -5,7 +5,7 @@ date: 2019-12-12 15:40:00 +09:00
 author: "somang"
 permalink: /following-the-hanok-space-in-the-city/
 image:
-  feature: hanok-01.jpg
+  feature: thumb-main.jpg
 categories:
   - korea-hanok
 tags:
