@@ -19,13 +19,21 @@ description: I want to record the appearance of hanok in the city as a tourist d
 
 ### A New Concept of Hanok
 
+
+
 We often find that space, even the city itself, is consumed in a variety of ways as content, and that meaning is recreated within a new context. Thanks to "Newtro," traditional culture and materials are more familiar than ever. Older ones are considered to be 'new cultural values of the present era' beyond just a long-preserved one.
 
 When I think of various materials about our space and our cities, I want to talk about traditional Korean houses.
 
 
 
+******
+
+
+
 ### The Various appearnece of Hanok around city
+
+
 
 
 
