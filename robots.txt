@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cityhanok.com/sitemap.xml
