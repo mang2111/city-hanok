@@ -1,15 +1,19 @@
 # Site settings
 title: city hanok
 tagline: Recording the appearance of Hanok in the city
+email: mang2111@gmail.com
 description: "I want to record the appearance of hanok in the city as a tourist destination, residential space, and commercial facility by following the various landscapes and traces surrounding it."
+author: somang
+baseurl: "/"
 url: "https://cityhanok.com"
-author:
-  name: "somang"
-  email: "mang2111@gmail.com"
-  url: "https://cityhanok.com"
+locale: "ko_KR"
+thumbnail: "/img/thumbnail.jpg"
 
+# Socail Profiles
+instagram_username: city_hanok
+facebook_username: city_hanok
+linkedin_username: somang2020
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 permalink: /:title
 paginate: 8
