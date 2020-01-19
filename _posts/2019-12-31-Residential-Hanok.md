@@ -3,6 +3,7 @@ layout: post
 title: Beautiful Residential Hanok in Seoul
 date: 2019-12-31 17:00:00 +09:00
 author: "somang"
+contentID: '05'
 permalink: /Residential-Hanok/
 image:
   feature: thumb-residential.jpg
@@ -108,6 +109,3 @@ In Eunpyeong Hanok Village, visitors can enjoy the hanok (Korean traditional hou
 
 
 <br>
-
-
-
